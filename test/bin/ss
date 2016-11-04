@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require_relative "../lib/sum.rb"
+puts"hello!"
+puts "please enter the first number"
+x =gets.chomp
+
+puts "please enter the second number"
+
+y =gets.chomp
+sum(x,y)

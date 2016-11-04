@@ -1,0 +1,4 @@
+def greeting
+puts "hello world"
+greeting="hello world"
+end
